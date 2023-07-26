@@ -55,9 +55,9 @@ const Login = () => {
         />
         <input type="submit" onClick={submit}/>
       </form>
-      <br />
+      
       <p>OR</p>
-      <br />
+      
       <Link to="/signup">SignUp Page</Link>
     </div>
   );
